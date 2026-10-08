@@ -1,0 +1,5 @@
+.env
+.venv/
+browser_profile/
+data/
+__pycache__/
